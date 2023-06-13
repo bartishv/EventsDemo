@@ -249,6 +249,7 @@ _Pvt_Extensions
 
 # Protorepo generated models
 gen/*
+protobuf/*
 
 #Minicover generated files
 coverage/
